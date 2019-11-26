@@ -1,6 +1,7 @@
 # Spotify_DataMining_Projet
 
 Based on to: https://github.com/mdeff/fma
+Coded by: @stetzlaff, @l0wsk1ll3d, @MarcelWepper
 
 # 1 Problem
 In the modern society music is as present as ever, so economic interest is increasingas well.  From the business perspective, popular songs are evidently more desired than others.  Thus the question arises, wether these certain hit songs have some-thing in common, which makes them more popular than others.  Especially if this commonality can be measured, analyzed and predicted for new songs. This project work deals with the problem, if and how a songs popularity maybe predicted by its audio features.  Applied to machine learning, this task can be mapped to the area of classification.  In this context the class of interest contains the most popular songs.
